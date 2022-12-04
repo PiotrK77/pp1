@@ -1,0 +1,1 @@
+& C:/Users/koter/AppData/Local/Programs/Python/Python310/python.exe c:/Users/koter/Desktop/pp1/07-FileHandling/Task13.py
