@@ -8,5 +8,5 @@ i = 0
 while i < len(countries):
     print()
     for key, value in countries[i].items():
-        print(key, ":", value, "  ",end = " ")
+        print(f"{key}: {value},", end = " ")
     i += 1
